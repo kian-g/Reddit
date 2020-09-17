@@ -20,7 +20,7 @@ function addImages() {
     <span class="sr-only">Loading...</span>
   </div>`;
 
-  $.getJSON(`https://www.reddit.com/r/${subReddit}/.json?limit=100`, function(data) {
+  $.getJSON(`https://www.reddit.com/r/${subReddit}/.json?limit=150`, function(data) {
 
     var content = "";
     document.getElementById('app').innerHTML = "";
