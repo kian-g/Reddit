@@ -5,5 +5,4 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Rellas001/Reddit)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Rellas001/Reddit)
 
-
 ---
