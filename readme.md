@@ -1,2 +1,3 @@
-# https://rellas001.github.io/Reddit/
-## Reload the page if the css does not load
+---
+https://img.shields.io/github/issues/Rellas001/Reddit
+---
