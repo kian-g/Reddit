@@ -1,3 +1,3 @@
 ---
-https://img.shields.io/github/issues/Rellas001/Reddit
+![GitHub issues](https://img.shields.io/github/issues/Rellas001/Reddit)
 ---
